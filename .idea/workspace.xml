@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d6bd410-ba27-4858-8c1f-70af298d9479" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="790618928">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="59" />
+          <entry key="feature" value="2260" />
+          <entry key="java" value="3225" />
+          <entry key="xml" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Cucumber" value="2260" />
+          <entry key="JAVA" value="3225" />
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="XML" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="feature" value="10" />
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Cucumber" value="10" />
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/TicketSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Projects\cucumberplayground\src\test</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/aprender_cucumber.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/AprenderCucumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/step_definitions/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/features/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/step_definitions/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/runner/CucumberRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/runner/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/stepDefinitions/StepDefinitions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/stepDefinitions/LearnCucumberStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/runner/stepDefinitions/LearnCucumberStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Runner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/Runner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/LearnCucumberStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/CounterStep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/monitora/cucumber/playground/entities/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/utils/DateConverter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/DeliveryStep.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/TicketSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Counter.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Delivery.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/Ticket.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/runner/Runner.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="40" />
+    <option name="width" value="1304" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="playground" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cucumberplayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cucumberplayground" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535743545128" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\cucumberplayground\src\test\resources" />
+      <recent name="C:\Projects\cucumberplayground\src\test\java\br\com\monitora\cucumber\playground\runner\features" />
+      <recent name="C:\Projects\cucumberplayground\src\test\java\br\com\monitora\cucumber\playground\runner" />
+      <recent name="C:\Projects\cucumberplayground\src\test\java\br\com\monitora\cucumber\playground\features" />
+      <recent name="C:\Projects\cucumberplayground\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.br.com.monitora.cucumber.playground in cucumberplayground">
+    <configuration name="All Features in: java" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cucumberplayground" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="All Features in: java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Should execute specification" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/aprender_cucumber.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="cucumberplayground" />
+      <option name="NAME_FILTER" value="^Should execute specification$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Should execute specification$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Should execute specification" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumberplayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepDefinitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumberplayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.monitora.cucumber.playground.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.monitora.cucumber.playground" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.monitora.cucumber.playground.runner in cucumberplayground" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumberplayground" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepDefinitions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.monitora.cucumber.playground.runner" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Should execute specification" />
+      <item itemvalue="Cucumber java.All Features in: java" />
+      <item itemvalue="JUnit.br.com.monitora.cucumber.playground in cucumberplayground" />
+      <item itemvalue="JUnit.Runner" />
+      <item itemvalue="JUnit.br.com.monitora.cucumber.playground.runner in cucumberplayground" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.br.com.monitora.cucumber.playground in cucumberplayground" />
+        <item itemvalue="JUnit.br.com.monitora.cucumber.playground.runner in cucumberplayground" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber java.All Features in: java" />
+        <item itemvalue="Cucumber java.Scenario: Should execute specification" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d6bd410-ba27-4858-8c1f-70af298d9479" name="Default Changelist" comment="" />
+      <created>1535721449783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535721449783</updated>
+      <workItem from="1535721455176" duration="6473000" />
+      <workItem from="1535731581164" duration="6769000" />
+      <workItem from="1535738432582" duration="5100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 38m 09s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 43m 52s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 46m 23s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 47m 10s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 47m 42s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 50m 52s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 51m 32s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 51m 59s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 52m 09s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="br_com_monitora_cucumber_playground_in_cucumberplayground - 2018.08.31 at 15h 52m 20s.xml">
+      <configuration name="br.com.monitora.cucumber.playground in cucumberplayground" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18342000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="DB Browser" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Project Explorer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Job Explorer" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info content_ui="combo" id="Project" order="8" visible="true" weight="0.2397882" />
+      <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.29354838" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.66935486" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Console" order="5" />
+      <window_info anchor="bottom" id="DB Execution Console" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.30645162" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32903227" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LearnCucumber.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/LearnCucumberStep.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/CounterSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/monitora/cucumber/playground/entities/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/utils/DateConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/DeliverySteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="41" column="44" lean-forward="true" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Delivery.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Counter.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Ticket.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/monitora/cucumber/playground/steps/TicketSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
